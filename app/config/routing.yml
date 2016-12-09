@@ -1,0 +1,4 @@
+atelier:
+    resource: "@AtelierBundle/Controller/"
+    type:     annotation
+    prefix:   /
